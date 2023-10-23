@@ -16,6 +16,6 @@
 
 🔗 cd OLD-CHACKER
 
-🔗 python2 MANGO-FIRE.py
+🔗 python2 ALFE-SAD-FIRE.py
 
 🖤 Thank you For Using My Tools 🖤
