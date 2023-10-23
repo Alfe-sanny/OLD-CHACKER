@@ -16,6 +16,6 @@
 
 🔗 cd OLD-CHACKER
 
-🔗 python2 ALFE-SAD-FIRE.py
+🔗 python2 ALFE-SAD-FIRE_enc.py
 
 🖤 Thank you For Using My Tools 🖤
